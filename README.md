@@ -13,6 +13,3 @@ I'm an computer science student that is trying to make his way to be a developer
 
 #
 
-### 📊 Stats
-
-![Mateusz Groszewski GitHub stats](https://github-readme-stats.vercel.app/api?username=MateuszGroszewski&show_icons=true&theme=gruvbox)
